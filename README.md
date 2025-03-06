@@ -102,7 +102,7 @@ Contributions are welcome! If you'd like to contribute:
 4. Submit a pull request.
 
 ### Collaborators
-- [Gunanjr](https://github.com/gunanjr)
+- [Vaijnath Patil](https://github.com/vaijaaaaa)
 - [Yuvraj Rajbanshi](https://github.com/YuvrajRajbanshi)
 
 ## License
